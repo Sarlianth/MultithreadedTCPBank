@@ -1,5 +1,5 @@
-##Multi-threaded TCP Server Application
-#Adrian Sypos – G00309646 (Operating Systems Project)
+#Multi-threaded TCP Server Application
+###Adrian Sypos – G00309646 (Operating Systems Project)
 
 My Multi-threaded TCP Server app allows multiple customers to log in to their bank accounts knowing their username and passwords. Once logged in, user can update their bank account (every information except an actual account number), as well as deposit the money in and withdraw the money out. 
 
