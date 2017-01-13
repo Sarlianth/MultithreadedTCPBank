@@ -12,6 +12,7 @@ To start the program, we need to run the server application first, which will wa
 Once client has been connected to the server, you can either create new bank account selecting option [1], sign in into an existing account selecting option [2], or terminate the connection selecting option [3]. 
 
 If you select option [1] to create new bank account, you will be prompt to provide the following:
+
 	•Username
 	
 	•Password
